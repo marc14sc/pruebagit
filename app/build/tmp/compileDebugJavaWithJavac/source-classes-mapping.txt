@@ -1,0 +1,14 @@
+com/example/conectiondb/BuildConfig.java
+ com.example.conectiondb.BuildConfig
+com/example/myapplication/VolleySingleton.java
+ com.example.myapplication.VolleySingleton
+com/example/myapplication/LeerDatos.java
+ com.example.myapplication.LeerDatos
+ com.example.myapplication.LeerDatos$1
+ com.example.myapplication.LeerDatos$2
+com/example/myapplication/RegistrarCliente.java
+ com.example.myapplication.RegistrarCliente
+com/example/myapplication/elegir_accion.java
+ com.example.myapplication.elegir_accion
+ com.example.myapplication.elegir_accion$1
+ com.example.myapplication.elegir_accion$2
